@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hodann1
 - 👀 I’m interested in app development and data science 
 - 🌱 I’m currently learning software engineering.
-- 💞️ I’m looking to collaborate on anyone who could help me 
 - 📫 How to reach me 
 
 <!---
